@@ -19,5 +19,5 @@ git clone https://github.com/capboyyy/MDPGEN
 cd MDPGEN
 
 
-python MDPGEN.py
+python devil.py
  
