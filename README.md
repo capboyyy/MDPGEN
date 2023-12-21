@@ -13,7 +13,7 @@ pip install string
 termux
 
 
-git clone
+git clone https://github.com/capboyyy/MDPGEN
 
 
 cd MDPGEN
